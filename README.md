@@ -1,4 +1,6 @@
 # [String.prototype.padStart](https://github.com/es-shims/String.prototype.padStart) / [String.prototype.padEnd](https://github.com/es-shims/String.prototype.padEnd)
+
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
 ECMAScript proposal, specs, tests, and reference implementation for String.prototype.padStart/padEnd.
 
 This [initial](http://wiki.ecmascript.org/doku.php?id=strawman:string_padding) proposal was drafted by [@KevinGrandon](https://github.com/kevingrandon) with input from [@rwaldron](https://github.com/rwaldron) and [@dherman](https://github.com/dherman).
